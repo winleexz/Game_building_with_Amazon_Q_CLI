@@ -32,7 +32,9 @@
 - SPACE: Start game / continue to next level
 - ESC: Quit game
 
-## Game UI
+## Game Demo
+[Video Demo](https://youtu.be/2REGq--OT04)
+
 ![image](https://github.com/user-attachments/assets/d1d35949-1aa4-4f9a-a9de-49da631603e8)
 
 ![image](https://github.com/user-attachments/assets/a1f4464a-d44f-4497-bcff-44d5e5d23123)
