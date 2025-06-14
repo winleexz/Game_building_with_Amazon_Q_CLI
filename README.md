@@ -1,7 +1,10 @@
 # Building a Pickleball Game with Amazon Q CLI using Vibe Coding Approach
 [Amazon Q CLI](https://aws.amazon.com/blogs/devops/introducing-the-enhanced-command-line-interface-in-amazon-q-developer/) is a tool that you can use in the terminal to build things by simply describing what you want to do in plain English. This fun and interactive pickleball game was developed with this tool, showcasing how vibe coding can help create games with advanced features like 3D effects and progressive difficulty. 
 
-## Features
+![image](https://github.com/user-attachments/assets/d9e378f4-dafc-42da-a8a4-72fcdd52a103)
+
+
+## Game Features
 - 3D visual effects for paddles, ball, and court
 - Sound effects for game actions (when audio is available)
 - Progressive difficulty levels (1-10)
