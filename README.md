@@ -40,3 +40,6 @@
 ![image](https://github.com/user-attachments/assets/a1f4464a-d44f-4497-bcff-44d5e5d23123)
 
 ![image](https://github.com/user-attachments/assets/2b5d6fdd-1c8a-402e-879a-1c15beb5fce3)
+
+## Additional Resource 
+[Setting Up & Building the Game]([https://youtu.be/2REGq--OT04](https://medium.com/@winleexz/building-a-pickleball-game-with-amazon-q-cli-using-the-vibe-coding-approach-9bc589218073))
